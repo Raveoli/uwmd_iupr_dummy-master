@@ -3,5 +3,5 @@ I am building a website as my role as a Research Assistant at The Institute for 
 
 The website is built using Material Design Lite, AngularJS, NodeJS, LeafletJS and CartoDB API.
 
-The website is a work in progress: https://iupr.herokuapp.com/#
+This is a dummy website which hides private information: https://iuprdummy.herokuapp.com/#
 
